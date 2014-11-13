@@ -6,8 +6,11 @@ awesome awesomeness
 ## 通用
 
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) 免费的计算机编程类中文书籍
+
 - [精彩博客集合](https://github.com/hacke2/hacke2.github.io/issues/2) hacke2/hacke2.github.io#2
+
 - [ResumeSample](https://github.com/geekcompany/ResumeSample) 程序员简历模板列表
+
 - [remote-working](https://github.com/greatghoul/remote-working) 收集整理远程工作相关的资料
 
 ## 编程语言
