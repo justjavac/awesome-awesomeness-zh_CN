@@ -46,7 +46,7 @@ awesome awesomeness
 
 - Python
 
-  - [codeparkshare](https://github.com/Yixiaohan/) Python初学者书籍、视频、资料、社区推荐
+  - [codeparkshare](https://github.com/Yixiaohan/codeparkshare) Python初学者书籍、视频、资料、社区推荐
   - [stackoverflow-py-top-qa](https://github.com/wklken/stackoverflow-py-top-qa) stackoverflow上Python相关回答整理翻译
 
 - Ruby
