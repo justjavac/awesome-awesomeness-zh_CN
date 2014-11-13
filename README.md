@@ -1,4 +1,4 @@
-awesome awesomeness zh_CN
+awesome awesomeness
 =========================
 
 一份关于“资源汇总”的汇总。
