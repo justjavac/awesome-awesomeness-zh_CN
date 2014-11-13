@@ -32,6 +32,10 @@ awesome awesomeness
   - [iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos) Swift学习资源
   - [dev-blog](https://github.com/nixzhu/dev-blog) 一些 iOS/Web 开发相关的翻译或原创博客文章
   - [SwiftGuide](https://github.com/ipader/SwiftGuide) Swift语言指南
+  - [awesome-ios](https://github.com/vsouza/awesome-ios) 棒棒的iOS框架、库、教程、Xcode插件、组件的汇总
+  - [awesome-swift](https://github.com/Wolg/awesome-swift) 类似于awesome-iOS，不过是Swift语言的
+  - [Github-iOS备忘](http://github.ibireme.com/github/list/ios/) 没有这个汇总就不能算完整
+  - [Swift语言指南](http://dev.swiftguide.cn/) 仍在不断更新的Swift各种资料汇总
 
 - javascript
   - [awesome-firebase](https://github.com/justjavac/awesome-firebase)
@@ -43,6 +47,8 @@ awesome awesomeness
 - PHP
 
   - [PHP知识结构思维导图](http://pic1.zhimg.com/0af096f07b5d5bb18a0bb4bdbf9ac5a6_r.jpg)
+  - [awesome-PHP](https://github.com/ziadoz/awesome-php) github awesome系列的始祖，汇总怎么能少了它？！~
+  - [PHP: The Right Way](https://github.com/codeguy/php-the-right-way) PHP易学难精，你学习的姿势是正确的吗？它有一个[不太完整的中文版](http://wulijun.github.io/php-the-right-way/)。
 
 - Python
 
