@@ -15,6 +15,10 @@ awesome awesomeness
  
 - [jptiancai.github.com](https://github.com/jptiancai/jptiancai.github.com) github pages 静态网站集合
 
+- [Best-App](https://github.com/hzlzh/Best-App) https://github.com/hzlzh/Best-App
+
+- [MineCraftReferences](https://gitcafe.com/greatghoul/MineCraftReferences) 汇总游戏《我的世界》相关的资源
+
 ## 编程语言
 
 - Android
