@@ -46,7 +46,7 @@ awesome awesomeness
 
 - PHP
 
-  - [PHP知识结构思维导图](./assets/php-mind-map.jpg)
+  - [PHP知识结构思维导图](https://raw.githubusercontent.com/justjavac/awesome-awesomeness-zh_CN/master/assets/php-mind-map.jpg)
 
 - Python
 
