@@ -23,6 +23,7 @@ awesome awesomeness
 
   - [Android学习之路](http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/) 
   - [android-open-project](https://github.com/Trinea/android-open-project) Android开源项目分类汇总
+  - [AndroidDevTools](https://github.com/inferjay/AndroidDevTools) 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等
  
 - C/C++
 
@@ -36,6 +37,8 @@ awesome awesomeness
   - [iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos) Swift学习资源
   - [dev-blog](https://github.com/nixzhu/dev-blog) 一些 iOS/Web 开发相关的翻译或原创博客文章
   - [SwiftGuide](https://github.com/ipader/SwiftGuide) Swift语言指南
+  - [objc中文](http://objccn.io) [objc](http://www.objc.io)社区优秀文章中文翻译版本合集
+  - [iOS第三方开源库](http://github.ibireme.com/github/list/ios/) Github开源第三方收集
 
 - javascript
   - [awesome-firebase](https://github.com/justjavac/awesome-firebase)
