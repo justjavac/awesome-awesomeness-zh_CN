@@ -19,6 +19,7 @@ awesome awesomeness
 
   - [Android学习之路](http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/) 
   - [android-open-project](https://github.com/Trinea/android-open-project) Android开源项目分类汇总
+  - [AndroidDevTools](https://github.com/inferjay/AndroidDevTools) 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等
  
 - C/C++
 
