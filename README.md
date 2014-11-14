@@ -12,6 +12,10 @@ awesome awesomeness
 - [ResumeSample](https://github.com/geekcompany/ResumeSample) 程序员简历模板列表
 
 - [remote-working](https://github.com/greatghoul/remote-working) 收集整理远程工作相关的资料
+ 
+- [jptiancai.github.com](https://github.com/jptiancai/jptiancai.github.com) github pages 静态网站集合
+
+- [WebsitesForStudents](https://github.com/Xuanwo/WebsitesForStudents) 大学生网站集合
 
 ## 编程语言
 
