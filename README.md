@@ -15,6 +15,8 @@ awesome awesomeness
  
 - [jptiancai.github.com](https://github.com/jptiancai/jptiancai.github.com) github pages 静态网站集合
 
+- [WebsitesForStudents](https://github.com/Xuanwo/WebsitesForStudents) 大学生网站集合
+
 ## 编程语言
 
 - Android
