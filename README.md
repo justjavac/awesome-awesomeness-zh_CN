@@ -17,6 +17,8 @@ awesome awesomeness
 
 - [WebsitesForStudents](https://github.com/Xuanwo/WebsitesForStudents) 大学生网站集合
 
+- [MineCraftReferences](https://gitcafe.com/greatghoul/MineCraftReferences) 汇总游戏《我的世界》相关的资源
+
 ## 编程语言
 
 - Android
