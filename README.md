@@ -19,6 +19,8 @@ awesome awesomeness
 
 - [MineCraftReferences](https://gitcafe.com/greatghoul/MineCraftReferences) 汇总游戏《我的世界》相关的资源
 
+- [manong](https://github.com/nemoTyrant/manong) 码农周刊整理
+
 ## 编程语言
 
 - Android
@@ -48,7 +50,7 @@ awesome awesomeness
 
 - PHP
 
-  - [PHP知识结构思维导图](http://pic1.zhimg.com/0af096f07b5d5bb18a0bb4bdbf9ac5a6_r.jpg)
+  - [PHP知识结构思维导图](https://raw.githubusercontent.com/justjavac/awesome-awesomeness-zh_CN/master/assets/php-mind-map.jpg)
 
 - Python
 
