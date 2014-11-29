@@ -40,6 +40,7 @@ awesome awesomeness
   - [iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos) Swift学习资源
   - [dev-blog](https://github.com/nixzhu/dev-blog) 一些 iOS/Web 开发相关的翻译或原创博客文章
   - [SwiftGuide](https://github.com/ipader/SwiftGuide) Swift语言指南
+  - [ios-programming-books-zh_CN](https://github.com/lcepy/ios-programming-books-zh_CN) 中文ios开发资料收集
 
 - javascript
   - [awesome-firebase](https://github.com/justjavac/awesome-firebase)
