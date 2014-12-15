@@ -47,7 +47,8 @@ awesome awesomeness
   - [AngularJS-Learning](https://github.com/justjavac/AngularJS-Learning-zh_CN)
   - [NodeJS-Learning](https://github.com/sergtitov/NodeJS-Learning/blob/master/cn_resource.md) Nodejs中文资料导航
   - [node123](https://github.com/youyudehexie/node123) node.js中文资料导航
-  - [国内开源html5游戏引擎全收录](http://segmentfault.com/blog/tmdphp/1190000000749890) 
+  - [国内开源html5游戏引擎全收录](http://segmentfault.com/blog/tmdphp/1190000000749890)
+  - [w3school教程整理](http://www.flygon.net/archives/427)
 
 - PHP
 
