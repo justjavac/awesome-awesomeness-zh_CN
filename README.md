@@ -21,6 +21,8 @@ awesome awesomeness
 
 - [manong](https://github.com/nemoTyrant/manong) 码农周刊整理
 
+- [Learn X in Y minutes](http://learnxinyminutes.com)
+
 ## 编程语言
 
 - Android
