@@ -9,6 +9,8 @@ awesome awesomeness
 
 - [精彩博客集合](https://github.com/hacke2/hacke2.github.io/issues/2) hacke2/hacke2.github.io#2
 
+- [精华网站集锦](http://www.jianshu.com/p/9e65fa0b808e) 简书 henu王凯
+
 - [ResumeSample](https://github.com/geekcompany/ResumeSample) 程序员简历模板列表
 
 - [remote-working](https://github.com/greatghoul/remote-working) 收集整理远程工作相关的资料
