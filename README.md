@@ -25,6 +25,8 @@ awesome awesomeness
 
 - [Learn X in Y minutes](http://learnxinyminutes.com)
 
+- [Internet of Things](https://github.com/phodal/awesome-iot) 物联网资料收集
+
 ## 编程语言
 
 - Android
