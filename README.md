@@ -33,6 +33,7 @@ awesome awesomeness
 
   - [Android学习之路](http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/) 
   - [android-open-project](https://github.com/Trinea/android-open-project) Android开源项目分类汇总
+  - [Point-of-Android](https://github.com/FX-Max/Point-of-Android) Android 一些重要知识点解析整理
  
 - C/C++
 
