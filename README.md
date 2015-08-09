@@ -27,6 +27,8 @@ awesome awesomeness
 
 - [Internet of Things](https://github.com/phodal/awesome-iot) 物联网资料收集
 
+- [Web Developer 学习路线图](https://github.com/phodal/awesome-developer)
+
 ## 编程语言
 
 - Android
