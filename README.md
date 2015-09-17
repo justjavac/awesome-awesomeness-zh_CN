@@ -7,6 +7,8 @@ awesome awesomeness
 
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) 免费的计算机编程类中文书籍
 
+- [free-for-dev-zh](https://github.com/qinghuaiorg/free-for-dev-zh)  国内免费服务聚合
+
 - [精彩博客集合](https://github.com/hacke2/hacke2.github.io/issues/2) hacke2/hacke2.github.io#2
 
 - [精华网站集锦](http://www.jianshu.com/p/9e65fa0b808e) 简书 henu王凯
