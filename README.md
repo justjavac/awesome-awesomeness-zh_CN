@@ -78,7 +78,7 @@ awesome awesomeness
 
 ## WEB前端
 
-- [一个合格的前端工程师必看的书籍](http://caifujianghu.com/article/yige-hege-de-qianduan-gongchengshi-bikan-de-shuji.html) 
+- [一个合格的前端工程师必看的书籍](http://segmentfault.com/a/1190000000493195) 
 
 - [前端知识体系](http://knowledge.ecomfe.com/)
 
