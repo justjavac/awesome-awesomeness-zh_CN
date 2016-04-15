@@ -52,7 +52,8 @@ awesome awesomeness
   - [iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos) Swift学习资源
   - [dev-blog](https://github.com/nixzhu/dev-blog) 一些 iOS/Web 开发相关的翻译或原创博客文章
   - [SwiftGuide](https://github.com/ipader/SwiftGuide) Swift语言指南
-  - [ios-programming-books-zh_CN](https://github.com/lcepy/ios-programming-books-zh_CN) 中文ios开发资料收集
+  - [iOS-usefulinformation-zh_CN](https://github.com/icepy/iOS-usefulinformation-zh_CN) 中文ios开发资料收集
+  - [iOSTech](https://github.com/icepy/iOSTech) 这个项目收集iOS开发所需要的一些资源与小技巧
   - [trip-to-iOS](https://github.com/Aufree/trip-to-iOS) iOS 学习资料整理
 
 - javascript
@@ -77,6 +78,8 @@ awesome awesomeness
   - [Ruby 资料](https://ruby-china.org/wiki) by Ruby China
 
 ## WEB前端
+
+- [Front-End-Develop-Guide 前端开发指南](https://github.com/icepy/Front-End-Develop-Guide)
 
 - [一个合格的前端工程师必看的书籍](http://segmentfault.com/a/1190000000493195) 
 
