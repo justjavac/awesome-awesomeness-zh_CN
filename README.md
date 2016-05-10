@@ -96,3 +96,18 @@ awesome awesomeness
 - [mobile-web-favorites](https://github.com/hoosin/mobile-web-favorites) 移动前端开发收藏夹
 
 - [fe-store-house](https://github.com/poppinlp/fe-store-house) 个人关注的订阅、blog、工具、社区收集
+
+- [web前端高质量社区](http://www.div.io)
+- 
+- [开发者的干货集锦-每天更新](http://toutiao.io)
+- 
+- [Android性能优化](http://hukai.me)
+- 
+- [Android开源库](http://android-arsenal.com/ )
+- 
+- [Android开源库](https://fossdroid.com/ )
+- 
+- [Android Studio中文社区](www.android-studio.org/)
+
+ 
+
